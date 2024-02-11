@@ -12,7 +12,7 @@ Sputnik Network Bot allows for P2P-exchange between users
 - [Telegram bot](https://t.me/SputnikNetworkBot)
 - [Full guide “How to use"](https://youtu.be/zwb2TbKApvk)
 - [Twitter](https://twitter.com/SputnikNetwork)
-- [GitHub](https://github.com/SputnikNetwork)
+- [GitHub of Sputnik Network Bot - not of Sputnik App-chain!](https://github.com/SputnikNetwork)
 
 At the moment, Sputnik Network Bot is a centralized solution to provide users with the most comfortable conditions:
 - Instant sending of any number of transactions
