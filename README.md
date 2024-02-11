@@ -6,7 +6,7 @@ If you are validator, [check this information](https://github.com/PostState/Sput
 
 A few years ago we created Sputnik Network Bot - a bot for sending and receiving tips in crypto on Telegram and Twitter
 
-Also, Sputnik Network Bot allows for P2P-exchange between users
+Sputnik Network Bot allows for P2P-exchange between users
 
 - [Web page](https://sputnik.exchange/)
 - [Telegram bot](https://t.me/SputnikNetworkBot)
