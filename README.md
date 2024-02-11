@@ -1,5 +1,7 @@
 # Sputnik-App-Chain
 
+If you are validator, [check this information](https://github.com/PostState/Sputnik-App-Chain/blob/main/information_for_validators.md)
+
 ## Introduction
 
 A few years ago we created Sputnik Network Bot - a bot for sending and receiving tips in crypto on Telegram and Twitter
@@ -81,3 +83,4 @@ Sputnik Network will be Cosmos Ecosystem Hub to recieve airdrops:
 - Delegations for validation
 - 2x Airdrop of $SIGNAL to delegators in all Cosmos Ecosystem chains
 - Acces to user data base
+- More information for validators [here](https://github.com/PostState/Sputnik-App-Chain/blob/main/information_for_validators.md)
