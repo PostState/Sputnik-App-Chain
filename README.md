@@ -12,13 +12,13 @@ Also, Sputnik Network Bot allows for P2P-exchange between users
 - [Twitter](https://twitter.com/SputnikNetwork)
 - [GitHub](https://github.com/SputnikNetwork)
 
-At the moment, Sputnik Netvor Bot is a centralized solution to provide users with the most comfortable conditions:
+At the moment, Sputnik Network Bot is a centralized solution to provide users with the most comfortable conditions:
 - Instant sending of any number of transactions
 - No transaction fees
 - Sending several different types of cryptocurrencies at once
 - Sending transactions not to addresses, but to Telegram and Twitter usernames
 
-At the moment, more than 42 thousand transactions have been made within Sputnik Netvor Bot
+At the moment, more than 42 thousand transactions have been made within Sputnik Network Bot
 
 The main users of Sputnik Network Bot are both ordinary users of Telegram and Twitter, as well as various projects from the Cosmos Ecosystem that use Sputnik Network Bot to send funds to users for participation in various ambassador companies
 
