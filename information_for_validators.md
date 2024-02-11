@@ -44,7 +44,7 @@ But despite this, you should know that every validator who makes a contribution 
 
 First of all, we will be interested in the quality of validators!
 
-For the beginning, we ask you to create a pull request in Sputnik-App-Chain repo to add your validator to the list of test-net validators
+For the beginning, we ask you to create a pull request in https://github.com/PostState/Sputnik-App-Chain repo to add your validator to the list of test-net validators
 - Pull request name: Add <Your_moniker>
 - In the body of pull request, we ask you to provide all links to your validators in the Cosmos Ecosystem main-nets, or a link to a file where we can see a complete list of your validators in the Cosmos Ecosystem main-nets
 - We also ask you to indicate a contact for quick communication, for example your Telegram username
