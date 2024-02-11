@@ -49,6 +49,7 @@ For the beginning, we ask you to create a pull request in Sputnik-App-Chain repo
 - In the body of pull request, we ask you to provide all links to your validators in the Cosmos Ecosystem main-nets, or a link to a file where we can see a complete list of your validators in the Cosmos Ecosystem main-nets
 - We also ask you to indicate a contact for quick communication, for example your Telegram username
 
-An example of such a pull request: https://github.com/PostState/Sputnik-App-Chain/pull/1
+An example of such a pull request: [https://github.com/PostState/Sputnik-App-Chain/pull/1](https://github.com/Validator-POSTHUMAN/Sputnik-App-Chain/blob/main/Add%20POSTHUMAN)
+![image](https://github.com/PostState/Sputnik-App-Chain/assets/38581319/389ece1e-ff19-48e3-887f-128167cc7168)
 
 6. If you are not a member of the PostState private chat on Telegram, please fill this form: link
