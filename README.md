@@ -1,6 +1,34 @@
 # Sputnik-App-Chain
 
-Sputnik AppChain is the part of future PostState Blockchain
+## Introduction
+
+A few years ago we created Sputnik Network Bot - a bot for sending and receiving tips in crypto on Telegram and Twitter
+
+Also, Sputnik Network Bot allows for P2P-exchange between users
+
+- [Web page](https://sputnik.exchange/)
+- [Telegram bot](https://t.me/SputnikNetworkBot)
+- [Full guide “How to use"](https://youtu.be/zwb2TbKApvk)
+- [Twitter](https://twitter.com/SputnikNetwork)
+- [GitHub](https://github.com/SputnikNetwork)
+
+At the moment, Sputnik Netvor Bot is a centralized solution to provide users with the most comfortable conditions:
+- Instant sending of any number of transactions
+- No transaction fees
+- Sending several different types of cryptocurrencies at once
+- Sending transactions not to addresses, but to Telegram and Twitter usernames
+
+At the moment, more than 42 thousand transactions have been made within Sputnik Netvor Bot
+
+The main users of Sputnik Network Bot are both ordinary users of Telegram and Twitter, as well as various projects from the Cosmos Ecosystem that use Sputnik Network Bot to send funds to users for participation in various ambassador companies
+
+[Stats of transactions amount](https://docs.google.com/spreadsheets/d/1aUknmD58uYmoME7hn74hKIRFIPkBJPglFvVEChUV5Ak/edit?usp=sharing)
+
+It's time to expand the functionality of Sputnik Network Bot, and for this we are launching a blockchain!
+
+## About
+
+Sputnik Network AppChain is the part of future PostState Blockchain
 
 Sputnik Network will be Cosmos Ecosystem Hub to recieve airdrops:
 - Ranking users by the received airdrops with predefined parameters
