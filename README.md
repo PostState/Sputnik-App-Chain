@@ -32,7 +32,8 @@ It's time to expand the functionality of Sputnik Network Bot, and for this we ar
 
 Sputnik Network AppChain is the part of future PostState Blockchain
 
-Sputnik Network will be Cosmos Ecosystem Hub to recieve airdrops:
+Sputnik Network will be Cosmos Ecosystem Hub to send and recieve crypto, and also to recieve airdrops:
+- InterChain Accounts
 - Ranking users by the received airdrops with predefined parameters
 - Provide lists of stakers for Cosmos Ecosystem projects to distribute airdrops
 - Helping users to claim or recieve airdrops
