@@ -24,7 +24,7 @@ At the moment, Sputnik Network Bot is a centralized solution to provide users wi
 - Sending several different types of cryptocurrencies at once
 - Sending transactions not to addresses, but to Telegram and Twitter usernames
 
-At the moment, more than 42 thousand transactions have been made within Sputnik Network Bot
+At the moment, more than 44 thousand transactions have been made within Sputnik Network Bot
 
 The main users of Sputnik Network Bot are both ordinary users of Telegram and Twitter, as well as various projects from the Cosmos Ecosystem that use Sputnik Network Bot to send funds to users for participation in various ambassador companies
 
@@ -34,7 +34,7 @@ It's time to expand the functionality of Sputnik Network Bot, and for this we ar
 
 ## About
 
-Sputnik Network AppChain is the part of future PostState Blockchain
+Sputnik Network App-Chain is the part of future PostState Blockchain
 
 Sputnik Network will be Cosmos Ecosystem Hub to send and recieve crypto, and also to recieve airdrops:
 - InterChain Accounts
@@ -46,46 +46,68 @@ Sputnik Network will be Cosmos Ecosystem Hub to send and recieve crypto, and als
 
 ## Road Map
 
-- Run test-net
-- Build dApp
-- Bots in Telegram, Twitter, Discord
-- Web-page
-- Apps for iOS and Androis (???)
-- Announce airdrop of $SIGNAL for delegators of validators in all networks of Cosmos Ecosystem
-- Collecting data + Snashots
-- Runing main net
+### Q1-2024
+- Dev-net 
+- Preparation of documentation 
+- Preparing public GitHub 
+- Preparing a test-net
+- Accepting applications for participation from validators 
+- Preparation of ambassador campaigns 
+- Negotiations with projects 
+- Selecting networks, communities and NFT collections for StakeDrop distribution 
+- Search for Advisors 
+- Website creation 
+- Creating a browser version of the application 
+- Creating bots for Telegram, Twitter and Discord 
+- Creation of Personal Account UI/UX
+- Preparing Social Networks for interaction with users and the community 
+- Development of Sputnik DEX 
+- Development of Sputnik dApp
 
-## First Steps
+### Q2-2024
+- Test-net launch 
+- Testing the browser version of the application 
+- Testing the Personal Account 
+- Creation of mobile applications for iOS and Android 
+- Collecting data about validator delegators who will take part in the test-net
+- Creating a final list of networks, communities and NFT collections for StakeDrop distribution 
+- Creating xSIGNAL for distribution via StreamSwap 
+- Launch of an ambassador company 
+- Launching an application for Early Users 
+- Testing Sputnik DEX 
+- Testing Sputnik dApp
 
-- Run blockchain
-- Up IBC-relayers with all chains
-- InterChain accounts
-- Implementation of tips in blockchain and by Twitter/Telegram/Discord accounts
-- Send airdrop to Cosmos Ecosystem users, and 2xdrop to delegators of validators who validate Sputnik Network
-- Sputnik Network DEX
+### Q3-2024
+- Launch of the main-net
+- Starting the exchange of xSIGNAL to $SIGNAL 
+- Distribution of StakeDrop by categories 
+- Launch of Sputnik DEX 
+- Launch of Sputnik dApp 
+- Launch of IBC-relayers with the maximum possible inclusion of various networks from the Cosmos Ecosystem 
+- Launch of full initial functionality of the browser version and mobile applications 
+- Integration with crypto-wallets from the Cosmos Ecosystem
 
-## Benefits
+### Q4-2024
+- Implementation of existing DEXes, their functionality and liquidity pools under the hood of the Sputnik App 
+- Implementation of the functionality of other projects of the Cosmos Ecosystem under the hood of the Sputnik App
 
-### For users:
+### 2025
+- Implementation of EVM networks in Sputnik App (Ethereum, Polygon, Optimis, Arbitrum, and others) 
+- Implementation of Solana in Sputnik App 
+- Creating a provable staker profile to receive airdrops 
+- Creating lists of verified stakers for airdrops 
+- Implementation of the issuance of personal tokens 
+- Implementation of creation of liquidity pools with personal tokens 
+- Incentivizing liquidity pools with personal tokens 
+- Implementation of private distribution of tokens from one address to many other addresses
 
-- Airdrop of $SIGNAL for users
-- Decentralized and centralized accounts to send tips and reciving airdrops
-- Decentralized exchange
-- Fast connection with Wallet Connect, Twitter/Telegram/Discord accounts
-- Send and recieve free tips to other users directly in Twitter/Telegram/Discord
-- Analytics of received and/or future airdrops
-- Analytics of airdrops efficiency
+### 2026
+- Implementation of sending funds from centralized exchanges (ala Binance-pay) to Sputnik App 
+- Integration with banking services 
+- Issue of Sputnik Pay payment cards
 
-## For projects:
-
-- Sending multy-tips to users "in 2-clicks"
-- Getting lists of addresses for airdrops by predefined parameters
-- Airdrop of $SIGNAL for delegators
-- Archive statistics for airdrop snapshots
-
-## For validators:
-
-- Delegations for validation
-- 2x Airdrop of $SIGNAL to delegators in all Cosmos Ecosystem chains
-- Acces to user data base
-- More information for validators [here](https://github.com/PostState/Sputnik-App-Chain/blob/main/information_for_validators.md)
+### 2027
+- Transiting the security of Sputnik Network to the security of a Decentralized Digital PostState 
+- Burning remaining $SIGNAL tokens from the Community Pool 
+- Granting citizenship to stakers and liquidity providers 
+- $UNIT drop for stakers and liquidity providers
