@@ -1,6 +1,10 @@
 # Sputnik-App-Chain
 
-If you are validator, [check this information](https://github.com/PostState/Sputnik-App-Chain/blob/main/information_for_validators.md)
+![sputnik_scheme_new](https://github.com/PostState/Sputnik-App-Chain/assets/38581319/1530c179-754e-4d04-af72-9655ecd04399)
+
+- Basic Documenation of Sputnik App is [here](https://docs.sputniknetwork.digital/)
+
+- If you are validator, [check this information](https://github.com/PostState/Sputnik-App-Chain/blob/main/information_for_validators.md)
 
 ## Introduction
 
