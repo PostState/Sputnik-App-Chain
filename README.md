@@ -4,7 +4,7 @@
 
 - [Main Web-page](https://sputniknetwork.digital/)
 - Basic Documenation of Sputnik App is [here](https://docs.sputniknetwork.digital/)
-- [Sputnik Network Pitch](https://github.com/PostState/Sputnik-App-Chain/blob/main/Sputnik_Network_Pitch.pdf)
+- [Sputnik Network Pitch](https://docs.google.com/presentation/d/15D6l06ZZ6Fi3sUHOESBHXE8fl5O0puM2P-F9LPsuM7U/edit?usp=sharing)
 - If you are validator, [check this information](https://github.com/PostState/Sputnik-App-Chain/blob/main/information_for_validators.md)
 
 ## Introduction
