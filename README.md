@@ -2,8 +2,9 @@
 
 ![sputnik_scheme_new](https://github.com/PostState/Sputnik-App-Chain/assets/38581319/1530c179-754e-4d04-af72-9655ecd04399)
 
+- [Main Web-page](https://sputniknetwork.digital/)
 - Basic Documenation of Sputnik App is [here](https://docs.sputniknetwork.digital/)
-
+- [Sputnik Network Pitch](https://github.com/PostState/Sputnik-App-Chain/blob/main/Sputnik_Network_Pitch.pdf)
 - If you are validator, [check this information](https://github.com/PostState/Sputnik-App-Chain/blob/main/information_for_validators.md)
 
 ## Introduction
@@ -12,7 +13,7 @@ A few years ago we created Sputnik Network Bot - a bot for sending and receiving
 
 Sputnik Network Bot allows for P2P-exchange between users
 
-- [Web page](https://sputnik.exchange/)
+- [Twitter Bot](https://sputnik.exchange/)
 - [Telegram bot](https://t.me/SputnikNetworkBot)
 - [Full guide “How to use"](https://youtu.be/zwb2TbKApvk)
 - [Twitter](https://twitter.com/SputnikNetwork)
