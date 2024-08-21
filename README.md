@@ -13,21 +13,21 @@ A few years ago we created Sputnik Network Bot - a bot for sending and receiving
 
 Sputnik Network Bot allows for P2P-exchange between users
 
-- [Twitter Bot](https://sputnik.exchange/)
+- [X (Twitter) Bot](https://sputnik.exchange/)
 - [Telegram bot](https://t.me/SputnikNetworkBot)
 - [Full guide “How to use"](https://youtu.be/zwb2TbKApvk)
-- [Twitter](https://twitter.com/SputnikNetwork)
+- [X (Twitter)](https://twitter.com/SputnikNetwork)
 - [GitHub of Sputnik Network Bot - not of Sputnik App-chain!](https://github.com/SputnikNetwork)
 
 At the moment, Sputnik Network Bot is a centralized solution to provide users with the most comfortable conditions:
 - Instant sending of any number of transactions
 - No transaction fees
 - Sending several different types of cryptocurrencies at once
-- Sending transactions not to addresses, but to Telegram and Twitter usernames
+- Sending transactions not to addresses, but to Telegram and  X (Twitter) usernames
 
 At the moment, more than 44 thousand transactions have been made within Sputnik Network Bot
 
-The main users of Sputnik Network Bot are both ordinary users of Telegram and Twitter, as well as various projects from the Cosmos Ecosystem that use Sputnik Network Bot to send funds to users for participation in various ambassador companies
+The main users of Sputnik Network Bot are both ordinary users of Telegram and X (Twitter), as well as various projects from the Cosmos Ecosystem that use Sputnik Network Bot to send funds to users for participation in various ambassador companies
 
 [Stats of transactions amount](https://docs.google.com/spreadsheets/d/1aUknmD58uYmoME7hn74hKIRFIPkBJPglFvVEChUV5Ak/edit?usp=sharing)
 
@@ -42,7 +42,7 @@ Sputnik Network will be Cosmos Ecosystem Hub to send and recieve crypto, and als
 - Ranking users by the received airdrops with predefined parameters
 - Provide lists of stakers for Cosmos Ecosystem projects to distribute airdrops
 - Helping users to claim or recieve airdrops
-- Sending transactions to list of users by addresses or username of Telegram, Twitter, Discord
+- Sending transactions to list of users by addresses or username of Telegram, X (Twitter), Discord
 - A simple tool for scheduling and distributing airdrops
 
 ## Road Map
