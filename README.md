@@ -13,21 +13,21 @@ A few years ago we created Sputnik Network Bot - a bot for sending and receiving
 
 Sputnik Network Bot allows for P2P-exchange between users
 
-- [X (Twitter) Bot](https://sputnik.exchange/)
+- [X (formerly Twitter) Bot](https://sputnik.exchange/)
 - [Telegram bot](https://t.me/SputnikNetworkBot)
 - [Full guide “How to use"](https://youtu.be/zwb2TbKApvk)
-- [X (Twitter)](https://twitter.com/SputnikNetwork)
+- [X (formerly Twitter)](https://twitter.com/SputnikNetwork)
 - [GitHub of Sputnik Network Bot - not of Sputnik App-chain!](https://github.com/SputnikNetwork)
 
 At the moment, Sputnik Network Bot is a centralized solution to provide users with the most comfortable conditions:
 - Instant sending of any number of transactions
 - No transaction fees
 - Sending several different types of cryptocurrencies at once
-- Sending transactions not to addresses, but to Telegram and  X (Twitter) usernames
+- Sending transactions not to addresses, but to Telegram and  X (formerly Twitter) usernames
 
 At the moment, more than 44 thousand transactions have been made within Sputnik Network Bot
 
-The main users of Sputnik Network Bot are both ordinary users of Telegram and X (Twitter), as well as various projects from the Cosmos Ecosystem that use Sputnik Network Bot to send funds to users for participation in various ambassador companies
+The main users of Sputnik Network Bot are both ordinary users of Telegram and X (formerly Twitter), as well as various projects from the Cosmos Ecosystem that use Sputnik Network Bot to send funds to users for participation in various ambassador companies
 
 [Stats of transactions amount](https://docs.google.com/spreadsheets/d/1aUknmD58uYmoME7hn74hKIRFIPkBJPglFvVEChUV5Ak/edit?usp=sharing)
 
@@ -93,7 +93,7 @@ Sputnik Network will be Cosmos Ecosystem Hub to send and recieve crypto, and als
 - Implementation of the functionality of other projects of the Cosmos Ecosystem under the hood of the Sputnik App
 
 ### 2025
-- Implementation of EVM networks in Sputnik App (Ethereum, Polygon, Optimis, Arbitrum, and others) 
+- Implementation of EVM networks in Sputnik App (Ethereum, Polygon, Optimism, Arbitrum, and others) 
 - Implementation of Solana in Sputnik App 
 - Creating a provable staker profile to receive airdrops 
 - Creating lists of verified stakers for airdrops 
