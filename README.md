@@ -9,21 +9,21 @@
 
 ## Introduction
 
-A few years ago we created Sputnik Network Bot - a bot for sending and receiving tips in crypto on Telegram and Twitter
+A few years ago we created Sputnik Network Bot - a bot for sending and receiving tips in crypto on Telegram and X (Twitter)
 
 Sputnik Network Bot allows for P2P-exchange between users
 
-- [X (formerly Twitter) Bot](https://sputnik.exchange/)
+- [X (Twitter) Bot](https://sputnik.exchange/)
 - [Telegram bot](https://t.me/SputnikNetworkBot)
 - [Full guide “How to use"](https://youtu.be/zwb2TbKApvk)
-- [X (formerly Twitter)](https://x.com/SputnikNetwork)
+- [X (Twitter)](https://x.com/SputnikNetwork)
 - [GitHub of Sputnik Network Bot - not of Sputnik App-chain!](https://github.com/SputnikNetwork)
 
 At the moment, Sputnik Network Bot is a centralized solution to provide users with the most comfortable conditions:
 - Instant sending of any number of transactions
 - No transaction fees
 - Sending several different types of cryptocurrencies at once
-- Sending transactions not to addresses, but to Telegram and Twitter usernames
+- Sending transactions not to addresses, but to Telegram and X (Twitter) usernames
 
 At the moment, more than 44 thousand transactions have been made within Sputnik Network Bot
 
@@ -42,7 +42,7 @@ Sputnik Network will be Cosmos Ecosystem Hub to send and recieve crypto, and als
 - Ranking users by the received airdrops with predefined parameters
 - Provide lists of stakers for Cosmos Ecosystem projects to distribute airdrops
 - Helping users to claim or recieve airdrops
-- Sending transactions to list of users by addresses or username of Telegram, Twitter, Discord
+- Sending transactions to list of users by addresses or username of Telegram, X (Twitter), Discord
 - A simple tool for scheduling and distributing airdrops
 
 ## Road Map
@@ -59,7 +59,7 @@ Sputnik Network will be Cosmos Ecosystem Hub to send and recieve crypto, and als
 - Search for Advisors 
 - Website creation 
 - Creating a browser version of the application 
-- Creating bots for Telegram, Twitter and Discord 
+- Creating bots for Telegram, X (Twitter) and Discord 
 - Creation of Personal Account UI/UX
 - Preparing Social Networks for interaction with users and the community 
 - Development of Sputnik DEX 
@@ -93,7 +93,7 @@ Sputnik Network will be Cosmos Ecosystem Hub to send and recieve crypto, and als
 - Implementation of the functionality of other projects of the Cosmos Ecosystem under the hood of the Sputnik App
 
 ### 2025
-- Implementation of EVM networks in Sputnik App (Ethereum, Polygon, Optimis, Arbitrum, and others) 
+- Implementation of EVM networks in Sputnik App (Ethereum, Polygon, Optimism, Arbitrum, and others) 
 - Implementation of Solana in Sputnik App 
 - Creating a provable staker profile to receive airdrops 
 - Creating lists of verified stakers for airdrops 
