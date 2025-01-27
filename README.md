@@ -49,68 +49,79 @@ Sputnik Network will be Cosmos Ecosystem Hub to send and recieve crypto, and als
 
 ## Road Map
 
-### Q1-2024
-- Dev-net 
-- Preparation of documentation 
-- Preparing public GitHub 
-- Preparing a test-net
-- Accepting applications for participation from validators 
-- Preparation of ambassador campaigns 
-- Negotiations with projects 
-- Selecting networks, communities and NFT collections for StakeDrop distribution 
-- Search for Advisors 
-- Website creation 
-- Creating a browser version of the application 
-- Creating bots for Telegram, X (Twitter) and Discord 
-- Creation of Personal Account UI/UX
-- Preparing Social Networks for interaction with users and the community 
-- Development of Sputnik DEX 
-- Development of Sputnik dApp
+### 2024
 
-### Q2-2024
-- Test-net launch 
-- Testing the browser version of the application 
-- Testing the Personal Account 
-- Creation of mobile applications for iOS and Android 
-- Collecting data about validator delegators who will take part in the test-net
-- Creating a final list of networks, communities and NFT collections for StakeDrop distribution 
-- Creating xSIGNAL for distribution via StreamSwap 
-- Launch of an ambassador company 
-- Launching an application for Early Users 
-- Testing Sputnik DEX 
+- Dev-net
+- Preparation of documentation
+- Preparing a public GitHub
+- Preparing the test network
+- Accepting applications for participation from validators
+- Preparing ambassadorial campaigns
+- Negotiations with projects
+- Selecting Networks, Communities, and NFT Collections for StakeDrop Distribution
+- Search for Advisors
+- Website creation
+- Creating a browser version of the application
+- Creating bots for Telegram, Twitter and Discord
+- Creating UI/UX for Personal Account
+- Preparing Social Networks for User and Community Engagement
+- Sputnik DEX Development
+- Sputnik dApp development
+- Launch of the Centrifuge platform
+- Launching a Campaign for Early Adopters
+- MVP
+
+### Q1-2025
+
+- Testnet launch
+- Testing the browser version of the application
+- Testing the Personal Account
+- Creating mobile applications for iOS and Android
+- Collecting data on validator delegators who will participate in the testnet
+- Creating a final list of networks, communities and NFT collections for StakeDrop distribution
+- Creating xSIGNAL for distribution via StreamSwap
+- Launch of the Ambassador Program
+- Launching the app for Early Users
+- Testing Sputnik DEX
 - Testing Sputnik dApp
+- Launch of IBC relays with the maximum possible inclusion of various networks from the Cosmos Ecosystem
+ -Integration with crypto wallets from the Cosmos Ecosystem
 
-### Q3-2024
-- Launch of the main-net
-- Starting the exchange of xSIGNAL to $SIGNAL 
-- Distribution of StakeDrop by categories 
-- Launch of Sputnik DEX 
-- Launch of Sputnik dApp 
-- Launch of IBC-relayers with the maximum possible inclusion of various networks from the Cosmos Ecosystem 
-- Launch of full initial functionality of the browser version and mobile applications 
-- Integration with crypto-wallets from the Cosmos Ecosystem
+### Q1/2-2025
 
-### Q4-2024
-- Implementation of existing DEXes, their functionality and liquidity pools under the hood of the Sputnik App 
-- Implementation of the functionality of other projects of the Cosmos Ecosystem under the hood of the Sputnik App
+- Mainnet Launch
+- Launch of xSIGNAL to $SIGNAL exchange
+- Distribution of SteakDrop by categories
+- Sputnik DEX Launch
+- Launch of Sputnik dApp
+- Launch of full initial functionality of the browser version and mobile applications
+- Implementation of Sputnik Pay [(Cypher Card)](https://cypherhq.io/)
 
-### 2025
-- Implementation of EVM networks in Sputnik App (Ethereum, Polygon, Optimism, Arbitrum, and others) 
-- Implementation of Solana in Sputnik App 
-- Creating a provable staker profile to receive airdrops 
-- Creating lists of verified stakers for airdrops 
-- Implementation of the issuance of personal tokens 
-- Implementation of creation of liquidity pools with personal tokens 
-- Incentivizing liquidity pools with personal tokens 
+### Q2-2025
+
+- Implementation of existing dexes, their functionality and liquidity pools under the hood of Sputnik App
+- Implementation of the functionality of other projects of the Cosmos Ecosystem under the hood of Sputnik App
+
+### Q3-2025
+
+- Implementation of EVM networks in Sputnik App (Ethereum, Polygon, Optimis, Arbitrum, and others)
+- Solana implementation in Sputnik App
+- Creating a provable staker profile to receive airdrops
+- Creating lists of verified stakers for airdrops
+- Implementation of the issue of personal tokens
+- Implementation of creation of liquidity pools with personal tokens
+- Incentivizing Liquidity Pools with Private Tokens
 - Implementation of private distribution of tokens from one address to many other addresses
 
-### 2026
-- Implementation of sending funds from centralized exchanges (ala Binance-pay) to Sputnik App 
-- Integration with banking services 
-- Issue of Sputnik Pay payment cards
+### Q4-2025 - 2028
 
-### 2027
-- Transiting the security of Sputnik Network to the security of a Decentralized Digital PostState 
-- Burning remaining $SIGNAL tokens from the Community Pool 
-- Granting citizenship to stakers and liquidity providers 
-- $UNIT drop for stakers and liquidity providers
+- Updates and Upgrades
+- Improving functionality
+
+### 2028
+
+- Migration of Sputnik Network security to the security of the Decentralized Digital Post-State
+- Burning remaining $SIGNAL tokens from the Community Pool
+- Granting citizenship to stakers and liquidity providers
+- $UNIT Drop for Stakers and Liquidity Providers
+
