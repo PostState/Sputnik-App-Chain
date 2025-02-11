@@ -12,7 +12,7 @@ Before launching the test-net, we want to bring you up to date:
 
 1. Sputnik Network App-chain is a Cosmos SDK based blockchain.
 
-Launching blockchains on Cosmos SDK is a standard procedure for you)
+Launching blockchains on Cosmos SDK is a standard procedure for you
 
 All the launch documentation has long been familiar to you, but even despite this, we will soon publish all the necessary information for launch
 
@@ -36,7 +36,7 @@ Validators who make a contribution to the development of the Sputnik Network App
 
 The list of contributions has already been known to you for a long time, but it will also be published closer to the launch of the test-net
 
-4. In order to avoid the influx of "test-net hunters", test-net will officially be declared "not incentivized"
+4. In order to avoid the influx of "test-net airdrop hunters", test-net will officially be declared "not incentivized"
 
 But despite this, you should know that every validator who makes a contribution to the testing and development of the Sputnik Network App-chain will receive a reward both for themselves and for their delegators.
 
