@@ -10,7 +10,7 @@
 - [Telegram](https://t.me/Sputnik_Network)
 - [Discord](https://discord.gg/GHQ57qkx8T)
 - [Sputnik Network Pitch](https://docs.google.com/presentation/d/15D6l06ZZ6Fi3sUHOESBHXE8fl5O0puM2P-F9LPsuM7U/edit?usp=sharing)
-- If you are validator, [check this information](https://github.com/PostState/Sputnik-App-Chain/blob/main/information_for_validators.md)
+- If you are validator - [check this information](https://github.com/PostState/Sputnik-App-Chain/blob/main/information_for_validators.md)
 
 ## Introduction
 
