@@ -32,7 +32,7 @@ At the moment, Sputnik Network Bot is a centralized solution to provide users wi
 
 At the moment, more than 44 thousand transactions have been made within Sputnik Network Bot
 
-The main users of Sputnik Network Bot are both ordinary users of Telegram and Twitter, as well as various projects from the Cosmos Ecosystem that use Sputnik Network Bot to send funds to users for participation in various ambassador companies
+The main users of Sputnik Network Bot are both ordinary users of Telegram and X (Twitter), as well as various projects from the Cosmos Ecosystem that use Sputnik Network Bot to send funds to users for participation in various ambassador companies
 
 [Stats of transactions amount](https://docs.google.com/spreadsheets/d/1aUknmD58uYmoME7hn74hKIRFIPkBJPglFvVEChUV5Ak/edit?usp=sharing)
 
