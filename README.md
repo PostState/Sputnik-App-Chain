@@ -107,7 +107,7 @@ Sputnik Network will be Cosmos Ecosystem Hub to send and recieve crypto, and als
 
 ### Q3-2025
 
-- Implementation of EVM networks in Sputnik App (Ethereum, Polygon, Optimis, Arbitrum, and others)
+- Implementation of EVM networks in Sputnik App (Ethereum, Polygon, Optimism, Arbitrum, and others)
 - Solana implementation in Sputnik App
 - Creating a provable staker profile to receive airdrops
 - Creating lists of verified stakers for airdrops
