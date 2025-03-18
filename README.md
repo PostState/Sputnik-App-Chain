@@ -1,3 +1,6 @@
+[![](https://img.shields.io/github/stars/PostState/Sputnik-App-Chain)](https://github.com/PostState/Sputnik-App-Chain/stargazers)
+[![](https://img.shields.io/github/forks/PostState/Sputnik-App-Chain)](https://github.com/PostState/Sputnik-App-Chain/network/members)
+[![GitHub contributors](https://img.shields.io/github/contributors/PostState/Sputnik-App-Chain)](https://github.com/PostState/Sputnik-App-Chain/graphs/contributors)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/mit)
 
 # Sputnik-App-Chain
