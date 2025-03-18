@@ -2,6 +2,7 @@
 [![GitHub Forks](https://img.shields.io/github/forks/PostState/Sputnik-App-Chain)](https://github.com/PostState/Sputnik-App-Chain/network/members)
 [![GitHub Contributors](https://img.shields.io/github/contributors/PostState/Sputnik-App-Chain)](https://github.com/PostState/Sputnik-App-Chain/graphs/contributors)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/license/mit)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/PostState/Sputnik-App-Chain)](https://github.com/PostState/Sputnik-App-Chain/pulls)
 [![Github Issues](https://img.shields.io/github/issues-raw/PostState/Sputnik-App-Chain)](https://github.com/PostState/Sputnik-App-Chain/issues)
 
 # Sputnik-App-Chain
