@@ -4,8 +4,8 @@
 
 ![sputnik_scheme_new](https://github.com/PostState/Sputnik-App-Chain/assets/38581319/1530c179-754e-4d04-af72-9655ecd04399)
 
-- [Main Web-page](https://sputniknetwork.digital/)
-- Basic Documenation of Sputnik App is [here](https://docs.sputniknetwork.digital/)
+- [Main Web-page](https://sputnik.network)
+- Basic Documenation of Sputnik App is [here](https://docs.sputnik.network)
 - [X (Twitter)](https://x.com/SputnikNetwork)
 - [Telegram](https://t.me/Sputnik_Network)
 - [Discord](https://discord.gg/GHQ57qkx8T)
